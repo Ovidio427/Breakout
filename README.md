@@ -7,7 +7,7 @@ The objective is to destroy all the bricks by bouncing a ball off the paddle wit
 
 ## Screenshot
 
-![Gameplay Screenshot](assets/Breakout.png)
+![Gameplay Screenshot](assets/Breakout.PNG)
 
 ## Features
 
